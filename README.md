@@ -10,6 +10,8 @@ volatility, futures, options, arbitrage, derivatives, portfolios and trading
 strategies. Analysis of single and multiple nonstationary time series, GARCH models.
 Optimization methods, big data and machine learning in finance.
 
+
+
 File Descriptions:
 * FSP_PS1.ipynb - Different put-call combinations, Binomial asset pricing model (both as monte carlo and as an exhaustive sum)
 * FSP_PS2.ipynb - Markowitz portfolio analysis, markowitz bullet
