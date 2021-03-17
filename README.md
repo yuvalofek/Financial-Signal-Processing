@@ -29,8 +29,9 @@ Data:
  
 ### Stocastic Differential Equations for Finance
 FSP3_Stochastic Calc.ipynb 
-* Generated Brownian Motion
-* Implemented Black Scholes and compared expected value with Monte Carlo Simulations
+* Simulated Brownian Motion
+* Implemented Black Scholes and compared expected call value mid with Monte Carlo Simulations
+* Generated plot of half-path call value based Black Scholes model
 * Created stochastic paths based on the Cox-Ingersoll-Ross interest rate model and compared expected mean and variance to theoretical values.
 
 ### Time Series Modeing using GARCH, ARCH, ARMA, and AR
