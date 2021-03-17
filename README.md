@@ -35,10 +35,16 @@ FSP3_Stochastic Calc.ipynb
 * Created stochastic paths based on the Cox-Ingersoll-Ross interest rate model and compared expected mean and variance to theoretical values.
 
 ### Time Series Modeing using GARCH, ARCH, ARMA, and AR
-'''
-PS4 Folder Content
-|-- Data files: AAPL (1).csv, AAPL (2).csv, ADBE (1).csv, ADBE (2).csv, ^SP500TR (1).csv, ^SP500TR (2).csv
+```
+PS4 Folder
+|-- AAPL (1).csv 
+|-- AAPL (2).csv
+|-- ADBE (1).csv
+|-- ADBE (2).csv
+|-- ^SP500TR (1).csv
+|-- ^SP500TR (2).csv
+|-- FSP_4_Data.mat
 '-- FSP4_TImeModeling.m 
-'''
+```
 
 
