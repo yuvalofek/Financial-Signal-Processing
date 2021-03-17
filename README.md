@@ -12,7 +12,7 @@ Optimization methods, big data and machine learning in finance.
 
 
 
-File Descriptions:
+# Submissions:
 * FSP_PS1.ipynb - Different put-call combinations, binomial asset pricing model (both as monte carlo and as an exhaustive sum)
 * FSP_PS2.ipynb - Markowitz portfolio analysis, markowitz bullet
 * FSP3_Stochastic Calc.ipynb - Stochastic differential equation modeling, Black Sholes, Cox-Ingersoll-Ross interest rate model
