@@ -11,13 +11,13 @@ Optimization methods, big data and machine learning in finance.
 
 # Submissions - 4 Modeling Assignments: 
 ### 1.  Binomial Asset Pricing Model \& Put-Call Combinations
-##### FSP_PS1.ipynb 
+##### [FSP_PS1.ipynb](https://github.com/yuvalofek/Financial-Signal-Processing/blob/main/FSP_PS1.ipynb)
 * Modeled Combinations: Calls, Puts, Digital Calls, Digital Puts, Straddle, Call-Put Spread, Butterfly, Call Ladder, Digital Call Spread 
 * Binomial Asset Pricing: Exhaustive path generation using arrays, Exhaustive path generation using recursion, Monte Carlo simulation, Path dependent analysis 
 
 
 ### 2. Markowitz Portfolio Analysis
-##### FSP_PS2.ipynb 
+##### [FSP_PS2.ipynb](https://github.com/yuvalofek/Financial-Signal-Processing/blob/main/FSP_PS2.ipynb)
 * Performed yearly Markowitz Portfolio Analysis - Efficient frontier, MVP point (with and without shorting), Market point (with and without shorting)
 * Analyzed correlation, beta, systematic risk, and diversifiable risk
 * Conducted eigenvalue analysis on the covariance matrix. 
@@ -27,7 +27,7 @@ Optimization methods, big data and machine learning in finance.
 * USD LIBOR rate for 1 year maturity, https://www.macrotrends.net/2515/1-year-libor-rate-historical-chart
  
 ### 3. Stocastic Differential Equations for Finance
-FSP3_Stochastic Calc.ipynb 
+##### [FSP3_Stochastic Calc.ipynb](https://github.com/yuvalofek/Financial-Signal-Processing/blob/main/FSP3_Stochastic_Calc.ipynb) 
 * Simulated Brownian Motion
 * Implemented Black Scholes and compared expected call value mid with Monte Carlo Simulations
 * Generated plot of half-path call value based Black Scholes model
@@ -46,7 +46,7 @@ PS4 Folder
 '-- FSP4_TImeModeling.m 
 ```
 
-FSP4_TImeModeling.m 
+[FSP4_TImeModeling.m](https://github.com/yuvalofek/Financial-Signal-Processing/blob/main/PS4/FSP4_TImeModeling.m)
 * Generating Gaussian, Cauchy, \& Student t (t=5 \& 5=10) distributions
 * Synthesized ARMA data and computed AR coefficients using least-squares fit 
   * Compared Cholesky factorization results to Levinson-Durbin 
